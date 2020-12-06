@@ -1,0 +1,22 @@
+body {
+    background-color: #80FF00;
+    text-align: center;
+}
+
+canvas {
+    border-radius: 55%;
+    background-image: url(image.jpg);
+}
+
+button {
+    color: #ccc;
+    background: purple;
+    border-radius: 15px;
+
+}
+
+p {
+    text-align: center;
+    font-size: 5em;
+    color: purple;
+}
